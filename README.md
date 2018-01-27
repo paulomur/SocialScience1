@@ -42,4 +42,4 @@ Semana 2.
 
 Wallerstain idea [Articulo Mexicano sobre Wallerstain](http://www.scielo.org.mx/pdf/argu/v28n77/v28n77a7.pdf)[/](http://shadedrelief.com/)
 
-![cuantitativo](img\computador.png)
+![cuantitativo](img/computador.png)
