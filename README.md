@@ -28,7 +28,7 @@ Habran dos examenes
 
 ## Contenido
 
-[Semana 1 Lecturas](week1/README.md)
+[Semana 1 Lecturas](Week1/README.md)
 
 Cities closer to ocean should be labeled over the ocean (left) while cities more inside continent should be labeled over land surface.
 
